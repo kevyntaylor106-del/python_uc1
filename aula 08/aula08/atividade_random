@@ -1,0 +1,4 @@
+import random
+matriz_2 = []
+for i in range (3):
+    linha
